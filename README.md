@@ -2,7 +2,7 @@
 This is the part of Machine Learning SnapZoo Capstone -->
 
 # SnapZoo, Indonesian Zoo App
-
+![Logo](https://github.com/SnapZoo-Bangkit-2023/SnapZoo-Documentation/blob/4511c887a89e19c8e245eb24d5dfcf85c88e2dcc/Logo_SnapZoo.png)
 ## Team C23-PS157 Contributors
 * Angger Muhammad Rizqi (M286DKX3783) - [GitHub@Anggerm](https://github.com/Anggerm) - Machine Learning - Universitas Negeri Semarang
 * Bahtiar Hasan (C172DSX3347) - [GitHub@bhtiar](https://github.com/bhtiar) - Cloud Computing - Universitas Gunadarma

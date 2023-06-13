@@ -13,3 +13,5 @@ This is the part of Machine Learning SnapZoo Capstone -->
 
 ## About
 The Snapzoo application is an application based on animal identification through photo activities, which can help zoo visitors learn about wild animals in a more interactive and fun way. Using image recognition technology, users can photograph animals encountered in zoos and the application will identify the type of animal and provide detailed information about the habitat, behavior and unique characteristics of the animal.
+
+## Machine Learning Project
